@@ -1,0 +1,4 @@
+baseURL = 'https://com619-devops.uksouth.cloudapp.azure.com/wiki/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme='hugo-theme-relearn'
