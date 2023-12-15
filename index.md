@@ -37,6 +37,6 @@ GitHub wiki: https://github.com/jrykns-org/not-a-virus-map/wiki
 
 Server URL: https://com619-devops.uksouth.cloudapp.azure.com
 
-- [Page 1](docs/Azure/_index.md)
+- [Page 1](docs/Azure/Azure.md)
 - [Page 2](docs/page2.md)
 - [Page 3](docs/page3.md)
