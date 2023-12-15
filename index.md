@@ -1,4 +1,4 @@
-# My Wiki
+# Not a virus map Wiki
 
 - [Home](docs/Home)
 - [Azure](docs/Azure)
