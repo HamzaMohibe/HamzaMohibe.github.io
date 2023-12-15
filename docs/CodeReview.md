@@ -1,8 +1,4 @@
-+++
-archetype = "chapter"
-title = 'Code Review System'
-weight = 9
-+++
+# Code Review System using GitHub
 
 ## Overview
 

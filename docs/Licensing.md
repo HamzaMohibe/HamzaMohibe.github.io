@@ -1,9 +1,4 @@
-+++
-archetype = "chapter"
-title = "Licensing"
-weight = 4
-+++
-For the Apache 2 licence to apply to our code we need to have a text file containing the licence in the projects root and some boilerplate text in the header of each java file. To do this were using the plugin license-maven-plugin. 
+For the Apache 2 licence to apply to our code we need to have a text file containing the licence in the projects root and some boilerplate text in the header of each java file. To do this were using the plugin license-maven-plugin.
 
 ## Explanation of code
 

@@ -1,31 +1,30 @@
-+++
-archetype = "chapter"
-title = "Team Standards"
-weight = 5
-+++
 To comply with Assesment requirements regarding agile methodology adopted during the group project, following guide created to highlight key points for our development team rutines.
 
 ### Important dates and times on agreed shedules
-* Weekly physical meetings - Thursdays 11am (yet to confirm)
-* Daily standup meetings 2pm exept Thursdays - Discord
-* Presentation deadline - Friday, 15 December 2023 16:00 DevOps - (https://learn.solent.ac.uk/mod/assign/view.php?id=3136581)
+
+- Weekly physical meetings - Thursdays 11am (yet to confirm)
+- Daily standup meetings 2pm exept Thursdays - Discord
+- Presentation deadline - Friday, 15 December 2023 16:00 DevOps - (https://learn.solent.ac.uk/mod/assign/view.php?id=3136581)
 
 ### Sprints dates
-* 1st sprint - Sep 25 to Oct 29
-* 2nd sprint - Oct 30 to Nov 19
-* 3rd sprint - Nov 20 to Dec 15
+
+- 1st sprint - Sep 25 to Oct 29
+- 2nd sprint - Oct 30 to Nov 19
+- 3rd sprint - Nov 20 to Dec 15
 
 # Development Standards and Best Practices
 
 ## Table of Contents
 
-1. [Version Control Guidelines](#version-control-guidelines)
-2. [Branching Strategy](#branching-strategy)
-3. [Coding Standards](#coding-standards)
-4. [Code Review Process](#code-review-process)
-5. [Documentation Guidelines](#documentation-guidelines)
-6. [Testing Practices](#testing-practices)
-7. [Deployment Procedures](#deployment-procedures)
+- [Development Standards and Best Practices](#development-standards-and-best-practices)
+  - [Table of Contents](#table-of-contents)
+  - [Version Control Guidelines](#version-control-guidelines)
+  - [Branching Strategy](#branching-strategy)
+  - [Coding Standards](#coding-standards)
+  - [Code Review Process](#code-review-process)
+  - [Documentation Guidelines](#documentation-guidelines)
+  - [Testing Practices](#testing-practices)
+  - [Deployment Procedures](#deployment-procedures)
 
 ---
 
@@ -69,4 +68,3 @@ To comply with Assesment requirements regarding agile methodology adopted during
 ---
 
 This Git wiki page acts as a comprehensive reference for developers, outlining the team's standards, best practices, and guidelines. Feel free to expand on each section with specific examples, tools, or additional details relevant to your team's workflow and preferences.
-
