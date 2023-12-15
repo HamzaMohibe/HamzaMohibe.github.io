@@ -1,6 +1,9 @@
-+++ archetype = "chapter" title = "Prometheus & Grafana" weight = 1 +++
-
-## Monitoring Overview
++++
+archetype = "chapter"
+title = "Prometheus & Grafana"
+weight = 14
++++
+# Monitoring Overview
 
 Effective monitoring is essential for identifying issues, analyzing performance, and maintaining the overall health of our application. Prometheus and Grafana work together to provide a comprehensive monitoring solution.
 
@@ -27,12 +30,12 @@ global:
 
 scrape_configs:
   - job_name: 'com619-devops'
-
+    
     # metrics_path defaults to '/metrics'
     # scheme defaults to 'http'.
 
     static_configs:
-      - targets: ['20.117.224.131:9090']
+      - targets: ['20.117.224.131:9090'] 
 ```
 
 ## Grafana

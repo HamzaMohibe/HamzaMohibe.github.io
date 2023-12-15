@@ -1,8 +1,42 @@
 +++
-archetype = "chapter"
-title = "Weekly Scrums"
-weight = 6
+archetype = "home"
+title = "Home"
 +++
+Welcome to the not-a-virus-map wiki!
+
+---------------------------------------------
+
+Group name: Drop table *
+
+Group members: 
+
+Harry Maynard (@4maynh59)
+
+Senju Murase (@jrykns)
+
+Dario Cruz (@dariocruz96)
+
+Igor Kanchukovskyi (@IgorGrey)
+
+Hamza Mohibe (@HamzaMohibe)
+
+----------------------------------------------------------------------------------------------------
+
+GitHub name: not-a-virus-map
+
+GitHub repository: https://github.com/jrykns-org/not-a-virus-map
+
+GitHub project (Kanban board) - 1st sprint: https://github.com/users/jrykns/projects/1
+
+GitHub project (Kanban board) - 2nd sprint: https://github.com/orgs/jrykns-org/projects/5
+
+GitHub project (Kanban board) - 3rd sprint: https://github.com/orgs/jrykns-org/projects/7
+
+GitHub wiki: https://github.com/jrykns-org/not-a-virus-map/wiki
+
+Server URL: https://com619-devops.uksouth.cloudapp.azure.com/home
+
+Server wiki: https://com619-devops.uksouth.cloudapp.azure.com/wiki/
 1st week (September 25 - Oct 1st)
 * Create a discord channel
 * Make a Microsoft Azure account
@@ -102,5 +136,24 @@ weight = 6
 * Implement CRUD API
 * Test API with Android app
 * Add and edit wiki pages
-* Look into GDPR
 * Weekly Discord meeting
+
+-------------------------------------------------------------------------
+
+9th week (Nov 20 - Nov 26)
+this week's goal: to be done with environment settings
+
+-------------------------------------------------------------------------
+
+10th week (Nov 27 - Dec 3)
+this week's goal: to be done with the application
+
+-------------------------------------------------------------------------
+
+11th week (Dec 4 - Dec 10)
+this week's goal: focus on testing / monitoring and documentation
+
+-------------------------------------------------------------------------
+
+12th - final week (Dec 11 - Dec 15)
+this week's goal: work on presentation video
