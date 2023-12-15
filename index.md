@@ -1,42 +1,19 @@
-+++
-archetype = "home"
-title = "Home"
-+++
+# My Wiki
 
-Welcome to the not-a-virus-map wiki!
-
----
-
-Group name: Drop table \*
-
-Group members:
-
-Harry Maynard (@4maynh59)
-
-Senju Murase (@jrykns)
-
-Dario Cruz (@dariocruz96)
-
-Igor Kanchukovskyi (@IgorGrey)
-
-Hamza Mohibe (@HamzaMohibe)
-
----
-
-GitHub name: not-a-virus-map
-
-GitHub repository: https://github.com/jrykns-org/not-a-virus-map
-
-GitHub project (Kanban board) - 1st sprint: https://github.com/users/jrykns/projects/1
-
-GitHub project (Kanban board) - 2nd sprint: https://github.com/orgs/jrykns-org/projects/5
-
-GitHub project (Kanban board) - 3rd sprint: https://github.com/orgs/jrykns-org/projects/7
-
-GitHub wiki: https://github.com/jrykns-org/not-a-virus-map/wiki
-
-Server URL: https://com619-devops.uksouth.cloudapp.azure.com
-
-- [Page 1](docs/Azure/Azure.md)
-- [Page 2](docs/page2.md)
-- [Page 3](docs/page3.md)
+- [Home](docs/home.md)
+- [Azure](docs/azure.md)
+- [Certbot and Nginx](docs/certbot&nginx.md)
+- [Code Review System](docs/codereview.md)
+- [Discord Meeting Notes](docs/discord-meeting-notes.md)
+- [Docker and Systemd](docs/docker-and-systemd.md)
+- [Features List](docs/features-list.md)
+- [Integration Testing](docs/integration-testing.md)
+- [Licensing](docs/licensing.md)
+- [Potential Improvements for Higher Grade](docs/potential-improvements.md)
+- [Presentation Video](docs/presentation-video.md)
+- [Production Deployment](docs/production-deployment.md)
+- [Prometheus & Grafana for Monitoring](docs/prometheus-grafana.md)
+- [Team Standards](docs/team-standards.md)
+- [Tech Specs](docs/tech-specs.md)
+- [User Easy Start Guide (TODO)](docs/user-easy-start-guide.md)
+- [Weekly Scrum](docs/weekly-scrum.md)
